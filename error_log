@@ -1,0 +1,22 @@
+[22-Aug-2016 00:53:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rikhan/public_html/pgshop/include/header.php:2) in /home/rikhan/public_html/pgshop/include/header.php on line 3
+[22-Aug-2016 00:55:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/rikhan/public_html/pgshop/include/header.php:2) in /home/rikhan/public_html/pgshop/include/header.php on line 3
+[22-Aug-2016 01:06:43 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rikhan/public_html/pgshop/database_backup.php on line 10
+[22-Aug-2016 01:06:43 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/rikhan/public_html/pgshop/database_backup.php on line 11
+[22-Aug-2016 01:06:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rikhan/public_html/pgshop/database_backup.php on line 17
+[22-Aug-2016 01:06:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rikhan/public_html/pgshop/database_backup.php on line 17
+[22-Aug-2016 01:06:43 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/rikhan/public_html/pgshop/database_backup.php on line 18
+[22-Aug-2016 01:06:43 America/Chicago] PHP Warning:  fopen(D:/DB_Backup/Supershop-22-08-16-d41d8cd98f00b204e9800998ecf8427e.sql): failed to open stream: No such file or directory in /home/rikhan/public_html/pgshop/database_backup.php on line 58
+[22-Aug-2016 01:06:43 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/rikhan/public_html/pgshop/database_backup.php on line 59
+[22-Aug-2016 01:06:43 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/rikhan/public_html/pgshop/database_backup.php on line 64
+[22-Aug-2016 01:09:33 America/Chicago] PHP Warning:  fopen(D:/Database_Backup/Supershop-22-08-16-39cdac7e5e91112cd4925929cecb3477.sql): failed to open stream: No such file or directory in /home/rikhan/public_html/pgshop/database_backup.php on line 58
+[22-Aug-2016 01:09:33 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/rikhan/public_html/pgshop/database_backup.php on line 59
+[22-Aug-2016 01:09:33 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/rikhan/public_html/pgshop/database_backup.php on line 64
+[22-Aug-2016 01:11:40 America/Chicago] PHP Warning:  fopen(D:/Database_Backup/Supershop-22-08-16-39cdac7e5e91112cd4925929cecb3477.sql): failed to open stream: No such file or directory in /home/rikhan/public_html/pgshop/database_backup.php on line 58
+[22-Aug-2016 01:11:40 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/rikhan/public_html/pgshop/database_backup.php on line 59
+[22-Aug-2016 01:11:40 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/rikhan/public_html/pgshop/database_backup.php on line 64
+[22-Aug-2016 01:12:41 America/Chicago] PHP Warning:  fopen(D:/PGShop-22-08-16-39cdac7e5e91112cd4925929cecb3477.sql): failed to open stream: No such file or directory in /home/rikhan/public_html/pgshop/database_backup.php on line 58
+[22-Aug-2016 01:12:41 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/rikhan/public_html/pgshop/database_backup.php on line 59
+[22-Aug-2016 01:12:41 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/rikhan/public_html/pgshop/database_backup.php on line 64
+[22-Aug-2016 01:12:56 America/Chicago] PHP Warning:  fopen(D:/PGShop-22-08-16-39cdac7e5e91112cd4925929cecb3477.sql): failed to open stream: No such file or directory in /home/rikhan/public_html/pgshop/database_backup.php on line 58
+[22-Aug-2016 01:12:56 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/rikhan/public_html/pgshop/database_backup.php on line 59
+[22-Aug-2016 01:12:56 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/rikhan/public_html/pgshop/database_backup.php on line 64
